@@ -63,6 +63,17 @@ The dataset contains booking information for a city hotel and a resort hotel, in
 * **Guest Paying Highest ADR**
 * **Mean ADR Across All Hotel Stays**
 
+## 🔎 Advanced Analysis
+
+After completing the initial EDA, advanced analysis was performed to uncover deeper insights into booking behavior, cancellations, and revenue trends:
+
+* **Overall Cancellation Rate:** Measured the percentage of bookings canceled across all hotels  
+* **Cancellation Rate by Hotel Type:** Compared cancellations between *City Hotel* and *Resort Hotel*  
+* **ADR (Average Daily Rate) Effects on Cancellations:** Explored how room pricing impacts cancellation likelihood  
+* **Seasonality & Monthly Booking Trends:** Analyzed booking patterns across months to identify peak and off-season periods  
+* **Count of Bookings by Market Segment:** Determined which customer segments contribute most to total bookings  
+* **Revenue Generated per Segment:** Calculated total revenue by market segment to identify the most valuable customers
+
 ---
 
 ## 📁 Project Structure
